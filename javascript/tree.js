@@ -6,7 +6,27 @@
 // balanced or unbalanced
 
 
+// full binary tree 
+// All nodes of the binary tree have 0 childre or 2 children
+/**
+       1
+     /   \
+    2     3
+   / \   / \
+  4   5 6   7
+ */
 
+// complate binary tree
+// All levels of the tree are filled except last level which may be filled from the left
+/**
+       1
+     /   \
+    2     3
+   / \   /
+  4   5 6
+ /
+7
+ */
 
 
 
