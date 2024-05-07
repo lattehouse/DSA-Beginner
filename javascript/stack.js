@@ -19,6 +19,10 @@ class Stack{
     peek(){
         return this.items[this.items.length-1]
     }
+
+    isEmpty(){}
+
+    idFull(){}
 }
 
 
